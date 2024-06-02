@@ -1,0 +1,26 @@
+Nodes visited:
+normal
+version
+comes
+with
+a
+complete
+card
+mini
+set
+get
+the
+normal
+
+Edges visited:
+normal-version
+version-comes
+comes-with
+with-a
+a-complete
+complete-card
+card-mini
+mini-set
+set-get
+get-the
+the-normal
